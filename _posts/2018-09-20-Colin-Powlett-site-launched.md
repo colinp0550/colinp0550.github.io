@@ -1,6 +1,6 @@
 ---
 layout: post
-title:"Colin Powlett, JellyFam, Launches Site"
+title: "Colin Powlett, JellyFam, Launches Site"
 date: 2018-09-20
 ---
 
