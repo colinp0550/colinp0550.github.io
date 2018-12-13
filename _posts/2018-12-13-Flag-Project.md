@@ -12,3 +12,4 @@ BC=place-image(YC, 250, 150, RR)
 GC=circle(100, "solid", "dark green")
 place-image(GC, 270, 120, BC )
 ```
+![flags image](images/flag.png)
