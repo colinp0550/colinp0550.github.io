@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Colin Powlett"
-date: 2018-09-20
+date: 2018-11-29
 ---
 
 I chose question 2 on the APCSP Midterm because I believe that it is a good question that shows properties of expressions. Question two is a novice level problem and the mastery skill is MS1. MS1 consists of using tools like functions, keywords(+,-, scale), evaluating expressions, and the application matches the contract. 
