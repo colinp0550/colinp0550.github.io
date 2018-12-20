@@ -4,12 +4,14 @@ title: "Flag Project - Final Submission"
 date: 2018-12-21
 ---
 
-## Flag of _insert your country_ by _insert your name_
+## Flag of Pakistan by Colin Powlett
 
 ## Describe your program
 
--   What country did you design for? _then delete this instruction_
--   What grade do you expect? _then delete this instruction_
+-   What country did you design for? 
+    I designed for Pakistan.
+-   What grade do you expect? 
+    I expect a grade of practitioner because I worked very hard on the project, am almost done with it, and   
 
 <!--- Delete this comment and add your writing -->
 
@@ -23,7 +25,7 @@ date: 2018-12-21
 
 ## Describe your process.
 
--   What questions, strategies, help from peers or teacher, or thinking got you to this point? _then delete this instruction_
+-   What questions, strategies, help from peers or teacher, or thinking got you to this point? I only had a few questions 
 
 <!--- Delete this comment and add your writing -->
 
